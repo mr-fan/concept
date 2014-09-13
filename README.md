@@ -8,3 +8,9 @@
 Laravel.io (forum), laravel.com (official, and doc) and laravel-recipies.com possibly prove that these type of sites can coexist in a framework ecosystem, so I guess a recipes site would not cannibalize the forums at http://processwire.com/talk nor the doc section.
  
 A recipe site like this would live and die with its content, of course. I would be ready to share all the small pieces of information I encounter that would make a good "recipe". But that alone wouldn't be enough ;) so this project won't survive without contribution of the community.
+
+# Potential recipes:
+
+* https://processwire.com/talk/topic/5578-how-to-use-fancybox/?p=73141
+* http://bigger-on-the-inside.net/2014/08/19/little-processwire-first-child-redirect-snippet/
+* http://bigger-on-the-inside.net/2014/09/08/another-processwire-quicky-limiting-debug-mode-to-your-development-environment/
