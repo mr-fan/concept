@@ -15,3 +15,4 @@ A recipe site like this would live and die with its content, of course. I would 
 * http://bigger-on-the-inside.net/2014/08/19/little-processwire-first-child-redirect-snippet/
 * http://bigger-on-the-inside.net/2014/09/08/another-processwire-quicky-limiting-debug-mode-to-your-development-environment/
 * https://processwire.com/talk/topic/7167-server-error-with-latest-dev-build/#entry69041
+* https://processwire.com/talk/topic/7573-best-way-to-implement-a-global-utility-function/#entry73157
