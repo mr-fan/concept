@@ -17,3 +17,4 @@ A recipe site like this would live and die with its content, of course. I would 
 * https://processwire.com/talk/topic/7167-server-error-with-latest-dev-build/#entry69041
 * https://processwire.com/talk/topic/7573-best-way-to-implement-a-global-utility-function/#entry73157
 * https://processwire.com/talk/topic/3779-use-csrf-in-your-own-forms/
+* https://processwire.com/talk/topic/1978-how-to-format-dates-in-templates/#entry18517
