@@ -9,6 +9,8 @@ Laravel.io (forum), laravel.com (official, and doc) and laravel-recipies.com pos
  
 A recipe site like this would live and die with its content, of course. I would be ready to share all the small pieces of information I encounter that would make a good "recipe". But that alone wouldn't be enough ;) so this project won't survive without contribution of the community.
 
+===
+
 # Potential recipes:
 
 * https://processwire.com/talk/topic/5578-how-to-use-fancybox/?p=73141
@@ -18,3 +20,31 @@ A recipe site like this would live and die with its content, of course. I would 
 * https://processwire.com/talk/topic/7573-best-way-to-implement-a-global-utility-function/#entry73157
 * https://processwire.com/talk/topic/3779-use-csrf-in-your-own-forms/
 * https://processwire.com/talk/topic/1978-how-to-format-dates-in-templates/#entry18517
+
+
+===
+
+# Possible structure of processwire-recipes.com / snippets.pw
+
+* Page type: Home page
+	* Big ass search input
+	* List of tags (topics)
+	* Call to action: contribute to this directory! (links to form)
+* Page type: Snippet/Recipe-Listing
+	* Listing of Recipe/Snippet headlines, paginatable
+	* Sortable by: Date added, alphabet, votes (a feature maybe added later)
+* Page type: single Snippet/Recipe
+	* Problem
+	* Solution
+	* Code example
+	* Contributor
+	* Discussion to that Recipe/Snippet (like comments below a blog post)
+* Page type: generic content page
+	* (Used for about page, Imprint,...)
+* Page type: Form page
+	* (Contribution form)
+		* Recipe title
+		* Recipe problem (prose)
+		* Recipe solution (prose)
+		* Recipe solution (code)
+		* Contributor (link to GitHub and/or ProcessWire forums)
